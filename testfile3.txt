@@ -1,0 +1,5 @@
+git checkout -b '브런치명'
+=>생성후 변경
+
+git checkout 브런치명
+=>변경
